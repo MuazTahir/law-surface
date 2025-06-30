@@ -1,0 +1,21 @@
+.__className_36bd41{
+    background: #c8d3e1;
+}
+#coin{
+    width: 280px;
+    padding: 3px;
+}
+.name{
+
+    text-align: center;
+
+    color: red;
+}
+.fw-style{
+    font-size: 12px;
+    font-weight:600 ;
+}
+.fwl-style{
+font-size:11px !important;
+font-weight:400 !important;
+}

@@ -1,0 +1,31 @@
+p
+{
+font-size:12px !important;
+font-weight: 100;
+font-family:sans-serif;
+line-height: normal;
+}
+.mytabDev{
+    /* background-color: whitesmoke !important; */
+    min-width: 100%;
+    min-height: 100vh;
+}
+.childDev{
+width: 96% !important;
+margin: auto !important;
+}
+.saveBtn{
+    border-top: 1px solid gray;
+}
+.title-style{
+    font-weight: 600;
+  } 
+  .btn-tab{
+    font-size: 13px;
+    font-weight:700;
+    background: transparent;
+}
+.nav-item button:hover{
+    color: #1d6732 !important; 
+   
+  }

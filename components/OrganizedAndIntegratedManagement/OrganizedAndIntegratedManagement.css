@@ -1,0 +1,41 @@
+.card {
+    background-color: #fff;
+  }
+  
+  .card h5 {
+    font-size: 1rem;
+    color: #333;
+  }
+  
+  .card p {
+    font-size: 0.875rem;
+    color: #666;
+  }
+  
+  @media (max-width: 576px) {
+    .container h2 {
+      font-size: 1.5rem;
+    }
+  
+    .container p {
+      font-size: 0.875rem;
+    }
+  
+    .card h5 {
+      font-size: 0.875rem;
+    }
+  
+    .card p {
+      font-size: 0.75rem;
+    }
+  
+    .row .col-6 {
+      margin-bottom: 20px;
+    }
+  
+    .row .col-md-4 {
+      flex: 0 0 100%;
+      max-width: 100%;
+    }
+  }
+  

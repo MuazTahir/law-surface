@@ -1,0 +1,26 @@
+
+
+
+ 
+
+  .mettingTable{
+    border-collapse: separate;
+    border-spacing: 0px 10px;
+
+  }
+  .mettingTable tr{
+       background-color: white;
+       line-height: 50px;
+  }
+  .tableMettingDiv{
+    overflow-x: auto;
+    max-width: 100%;
+  }
+
+  @media (max-width: 780px) {
+    .mettingTable {
+      min-width: 700px; /* Ensures the table has a scrollable width */
+    }
+  }
+  
+  

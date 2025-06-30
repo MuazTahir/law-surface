@@ -1,0 +1,16 @@
+
+
+.maindiv{
+    background-color: rgb(192, 112, 112) !important;
+}
+.childDev{
+   width: 98%;
+   margin: auto !important;
+   background-color: white !important;
+   font-size: 13px !important;
+}
+.inputSize{
+    width: 400px !important;
+}
+
+ 

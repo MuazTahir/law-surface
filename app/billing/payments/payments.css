@@ -1,0 +1,37 @@
+td, th {
+  padding-inline: 15px !important;
+  padding-block: 15px !important;
+}
+
+table {
+  table-layout: fixed;
+  width: 100%;
+  min-width: 700px; /* Ensures all columns are visible */
+}
+
+button {
+  border: 1px solid gainsboro;
+  background-color: white;
+  padding-inline: 15px;
+  padding-block: 2px;
+  border-radius: 5px !important;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .table-responsive {
+      overflow-x: auto;
+      overflow-y: hidden;
+    
+  }
+
+  table {
+      min-width: 800px; 
+      font-size: 12px;
+  }
+
+  td, th {
+      padding-inline: 10px !important;
+      padding-block: 10px !important;
+  }
+}

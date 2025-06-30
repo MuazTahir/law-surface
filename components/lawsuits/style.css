@@ -1,0 +1,27 @@
+
+.width-main{
+    width: 95%;
+    margin: auto;
+    border-radius: 7px;
+}
+.font-style{
+/* background-color:#edf2f9 ; */
+    font-size: 10px !important ;
+    border-radius: 4px;
+    /* padding-inline: 3px; */
+    padding-block: 2px;
+}
+.number-style{
+font-size: 15px;
+font-weight: 300;
+}
+.finished-two{
+font-weight: 300;
+}
+.icon-head{
+    font-size: 13px;
+    font-weight: 600;
+}
+.head-size{
+    font-size: 14px;
+}

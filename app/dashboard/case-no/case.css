@@ -1,0 +1,101 @@
+.menu-1 {
+    font-size: 14px;
+  }
+
+  .custom-breadcumb{
+    font-size: 0.9em;
+  }
+
+  .border-blocker{
+    border: none;
+  ;
+  }
+  /* .case-header {
+    background-color: white;
+    border: 1px solid #dee2e6;
+    width: 36%;
+    border-radius: 5px;
+  } */
+  .menu-2{
+    background-color: white;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+  }
+  .menu-3{
+    background-color: white;
+    border: 1px solid #dee2e6;
+    width: 100%;
+    border-radius: 5px
+  }
+  .modal-backdrop.show {
+    background-color: rgba(0, 0, 0, 0.5); /* Proper semi-transparent black background */
+  }
+  .font_Size{
+    font-size: small;
+  }
+  /* .sidebar {
+    background-color: white;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    padding: 15px;
+  } */
+   .action-link2:hover{
+    background-color: rgb(0, 107, 0);
+    color: white;
+   }
+   .action-link2{
+    display: inline-block;
+    padding: 5px 12px;
+    /* border: 1px solid #007bff; Bootstrap Primary Color */
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 14px;
+    color:black;
+    transition: background-color 0.2s ease, color 0.2s ease;
+   }
+  
+  .content-section {
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 15px;
+    border-left: 1px green solid;
+    background-color: #ffffff;
+  }
+  .main-section{
+    background-color: white;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+   
+  }
+  
+  .status {
+    color: green;
+    font-weight: bold;
+  }
+  
+  .action-link {
+    display: inline-block;
+    padding: 8px 16px;
+    /* border: 1px solid #007bff; Bootstrap Primary Color */
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 14px;
+    color:black;
+    transition: background-color 0.2s ease, color 0.2s ease;
+  }
+  
+  .action-link:hover {
+    background-color: rgb(237, 237, 237);
+    color: #ffffff;
+  }
+  
+  .action-link.danger {
+    border-color: #dc3545; /* Bootstrap Danger Color */
+    color: #dc3545;
+  }
+  
+  .action-link.danger:hover {
+    background-color: #dc3545;
+    color: #ffffff;
+  }
+  

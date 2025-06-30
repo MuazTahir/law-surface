@@ -1,0 +1,44 @@
+
+.expandable_div {
+    width: auto;
+    height: 0;
+    font-size: 16px;
+    background-color: white;  
+    transition: height 0.4s ease;
+    overflow: hidden;
+    cursor: pointer;
+  }
+  
+  .expandable_div.expanded {
+    height: 140px;
+  }
+  
+  .content {
+    padding: 10px;
+    font-size: 11px;
+  }
+  
+  .accordion_item{
+    width: 35%;
+    margin: 0 auto 0 auto;
+  }
+  
+  .accordion_heading{
+    font-size: 18px;
+    margin: 5px 0 5px 0;
+  }
+  @media screen and (max-width: 700px) {
+    .accordion_heading {
+      font-size: 14px;
+      margin: 10px 0 10px 0;
+    }
+    .accordion_item{
+      width: 80%;
+    }
+  }
+
+  .accordion_h{
+    /* height: 90vh; */
+    padding-top: 40px;
+  }
+  

@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+
+  .p-margin{
+    font-size: 0.9rem;
+    margin-left: 82px;
+  }
+  .fs-div{
+    margin-left: 43px;
+font-size: 1.3rem;
+  }
+  .main-div{
+    margin: auto;
+    width: 95%;
+  }
+  .footer-text{
+    font-size: 14px !important;
+    color: #838485;
+  }

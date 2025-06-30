@@ -1,0 +1,37 @@
+.custom-width {
+  width: 95%; 
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 5%;
+  padding-right: 5%;
+  display: flex;
+  justify-content: center;
+}
+.custom-input{
+height: 38px;
+  border: 1px solid rgb(187, 196, 206); 
+}
+.tableBody{
+  font-weight: 400;
+  font-size: 12px;
+}
+.main-table{
+  margin-inline: auto;
+  width: 95% !important;
+}
+/* .tableHead{
+  /* line-height: 20px; */
+  /* height: 100px; */
+/* } */
+
+.table-row{
+font-size: 1.1rem;
+font-weight: 500;
+ }  
+ 
+.table-head{
+  height: 40px;
+}
+.background{
+  background-color: #e5ecf7;
+}

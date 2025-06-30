@@ -1,0 +1,15 @@
+
+#addOpponentModal .modal-body{
+    font-size: 13px;
+}
+#addOpponentModal .leftLables{
+    width: 38%;
+   }
+   #addOpponentModal    .rightInputs{
+    width: 60%;
+   }
+   #addOpponentModal    .star{
+    color: red;
+    margin-left: 5px;
+   }
+   

@@ -1,0 +1,672 @@
+body {
+  overflow-y: scroll;
+  opacity: 1 !important;
+  height: 100%;
+  position: relative;
+  margin: 0;
+  min-height: 100%;
+  background-color: #edf2f9 !important;
+  font-size: 0.8em !important;
+  overflow-x: hidden;
+}
+
+.ml-5{
+  margin-left: 5px;
+}
+
+.disabled{
+  opacity: 0.6;
+  pointer-events: none;
+}
+
+.grey-badge{
+  background: #f1f0f0;
+    padding: 2px 8px;
+    position: relative;
+    left: 10px;
+}
+.text-left{
+  text-align: left !important;
+}
+
+
+
+.heading-primary{
+  border-bottom:1px solid black;
+  font-size: 1.1rem !important;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+
+}
+
+/* body *{
+  font-size: 1em !important;
+} */
+
+/* .status-box span */
+
+.status-box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 20px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  font-size: 0.8em;
+  border-radius: 10px;
+  position: relative;
+}
+
+.status-box-working{
+  background-color: rgb(4, 85, 4);
+}
+
+.form-control{
+   max-width: 250px;
+}
+
+.status-box-pending{
+  background-color: rgb(156, 52, 0);
+}
+
+.pb-8{
+  padding-block: 8px;
+}
+
+.pb-20{
+  padding-block: 20px;
+}
+
+required{
+  font-size: 1.2em;
+  color:red !important;
+}
+
+.i-m{
+  display: inline-block;
+  vertical-align:middle;
+}
+
+.flex-grow-1{
+  flex-grow: 1;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.full-width{
+  width: 100% !important;
+  max-width: unset !important;
+}
+
+.loading-img{
+  width: 100px;
+}
+
+#page-holder {
+  flex: 1 0 auto;
+  position: relative;
+}
+
+.table>thead>tr>th{
+  font-size: 1em;
+    font-weight: 700;
+    background-color: transparent;
+    /* background-color: #002d79; */
+    color:black;
+}
+
+.blue-t{
+  color: blue;
+}
+
+
+
+li a.nuetral-a{
+  color: initial;
+    display: initial;
+    min-width: initial;
+    margin: initial;
+    /* font-family: initial; */
+    font-weight: initial;
+    font-size: initial;
+    position: initial;
+    text-align: initial;
+    text-decoration: initial;
+}
+
+.no-ls-type{
+  list-style-type: none !important;
+  padding: 0;
+}
+
+.orange-t{
+  color: orange;
+}
+
+.sky-blue-t{
+  color: skyblue;
+}
+
+.magenta-t{
+  color: magenta;
+}
+
+.orange-red-t{
+  color: orangered;
+}
+
+.light-green-t{
+  color: rgb(0, 91, 29);
+}
+
+.purple-t{
+  color: purple;
+}
+
+a{
+  text-decoration: none !important;
+}
+
+div.bg-primary{
+  background-color: #002d79 !important;
+}
+
+.no-ls-type{
+  list-style-type: none;
+  padding: 0;
+}
+
+.inner_box_title span{
+  color: white;
+}
+
+.inner_box_title{
+  background: #033fa2;
+  color: white;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  padding-top:50px;
+}
+
+p.small{
+  font-size: 0.8em !important;
+  line-height: 13px !important;
+  margin: 0;
+  padding: 0;
+}
+
+.dropdown-menu{
+  width: 250px;
+    padding: 10px !important;
+    line-height: 20px;
+}
+
+.a-center{
+  align-items: center;
+}
+
+.j-center{
+  justify-content: center;
+}
+
+.j-spa{
+  justify-content: space-around;
+}
+
+.white-text{
+  color: white;
+} 
+
+.legend-link:hover{
+  background-color: rgb(240, 240, 240);
+}
+
+.fs-14{
+  font-size: 14px !important;
+}
+
+.legend-link{
+  /* padding: 5px; */
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.white-bk{
+  background-color: white;
+}
+
+.flex{
+  display: flex;
+}
+
+.relative{
+  position: relative;
+}
+
+.modal-dialog{
+  background-color: white;
+}
+
+.form-error{
+  font-size: 0.9em;
+  font-weight: bold;
+  color:red !important;
+}
+
+.selected-border2{
+  border: 4px solid rgb(166, 166, 166);
+}
+
+
+/* icons  */
+
+.search-icon{
+    width: 18px;
+    height: 19px;
+    margin-top: 4px;
+    vertical-align: middle;
+    margin-left: 10px;
+    position: relative;
+    top: 6px;
+}
+/* .modal{
+  display: block !important;
+} */
+
+.notify-badge span{
+  font-weight: bold;
+}
+
+.notify-badge{
+  text-align: left;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 1px solid gainsboro;
+  padding: 6px 10px;
+  margin-top: 11px;
+  border-radius: 5px;
+}
+
+.modal-dialog{
+  background-color: transparent;
+}
+
+.w-fit{
+  width: fit-content !important;
+}
+
+
+.d-btn p.small{
+  margin-left: 4px;
+}
+
+.d-btn{
+  text-align: center;
+  /* font-weight: bold; */
+  color: white;
+}
+
+/* dashboard panels */
+
+.d-btn i{
+  font-size: 0.8em;
+}
+
+.flex-grow-1 a{
+  width: -moz-fit-content;
+  width: fit-content;
+  margin: auto;
+  background-color: white;
+  border-radius: 10px;
+  padding-inline: 10px;
+  padding-block: 10px;
+  display: inline-block;
+
+}
+
+.default-blue-row-icon{
+  position: absolute;
+  top:11px;
+  right:11px;
+  color: blue;
+}
+
+/* to make all tables center aligned */
+table{
+  text-align: center;
+}
+
+.today-card{
+  background-color: #edf2f9;
+  border-left: 1px solid rgb(220, 217, 217);
+  border-right: 1px solid rgb(205, 202, 202);;
+}
+
+#loading-bar > div{
+  border-radius: 20px;
+  background: white;
+  padding-bottom: 15px;
+}
+
+#loading-bar{
+  text-align:center;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+#loading-bar img{
+  width: 200px;
+}
+
+.bubble-badge{
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  background-color: gainsboro;
+  color: black !important;
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  font-size: 0.7em;
+}
+
+/* CSS selection for System values group title (left side list) */
+.selected-li{
+  color: white !important;
+  font-weight: bold;
+}
+
+.case-header {
+  background-color: white;
+  border: 1px solid #dee2e6;
+
+  border-radius: 5px;
+  width: fit-content;
+  /* padding: 10px; */
+}
+
+.file-status-box{
+  display: inline-block;
+  text-align: center;
+}
+
+.c-circle1-text{
+  color:red !important;
+}
+
+.c-circle2-text{
+  color:blue !important;
+}
+
+.c-circle3-text{
+  color:black !important;
+}
+
+.c-circle4-text{
+  color:green !important;
+}
+
+.c-circle5-text{
+  color:brown !important;
+}
+
+.c-circle6-text{
+  color:purple !important;
+}
+
+.c-circle1{
+  background-color: red !important;
+}
+
+.c-circle2{
+  background-color: blue !important;
+}
+
+.c-circle3{
+  background-color: black !important;
+}
+
+.c-circle4{
+  background-color: green !important;
+}
+
+.c-circle5{
+  background-color: brown !important;
+}
+
+.c-circle6{
+  background-color: purple !important;
+}
+/* case status badges */
+
+[class*="badge"][class*="cs-"] {
+  width: 100px;
+  display: block !important;
+}
+
+.cs-InProcess{
+  background-color: green;
+  font-weight: bold;
+  color: white;
+}
+
+.cs-Separated{
+  background-color: orange;
+  font-weight: bold;
+  color: white;
+}
+
+.cs-Finished{
+  background-color: red;
+  font-weight: bold;
+  color: white;
+}
+
+.cs-Postponed{
+  background-color: #3b7ddd;
+  font-weight: bold;
+  color: white;
+}
+
+.cs-StopTemporarily{
+  background-color: #ad0000;
+  font-weight: bold;
+  color: white;
+}
+
+.cs-Draft{
+  background-color: #5256e5;
+  font-weight: bold;
+  color: white;
+}
+
+.cs-Execution{
+  background-color: #5e5e5e;
+  font-weight: bold;
+  color: white;
+}
+
+.border-bottom{
+  border-bottom: 1px solid gainsboro;
+  line-height: 38px;
+  margin-bottom: 15px;
+}
+
+.cs-UnderReview{
+  background-color: #9b52f3;
+  font-weight: bold;
+  color: white;
+}
+
+thead{
+  color: white;
+  line-height: 35px;
+}
+
+/* defalt panel buttons */
+.def-btn-table{
+  width: 250px;
+}
+
+.def-btn-table .fa:hover{
+  opacity: 0.8;
+}
+
+.def-btn-table .fa.fa-envelope::before{
+  color: cadetblue;
+}
+
+.def-btn-table .fa.fa-edit::before{
+  color: rgb(49, 0, 197);
+}
+
+.def-btn-table .fa.fa-trash::before{
+  color: rgb(174, 0, 140);
+}
+
+.def-btn-table .fa.fa-print::before{
+  color: rgb(122, 117, 121);
+}
+
+.def-btn-table .fa.fa-qrcode::before{
+  color: rgb(67, 181, 1);
+}
+
+.def-btn-table .fa{
+  color:black;
+  cursor: pointer;
+  font-size: 15px !important;
+}
+
+.no-margin{
+  margin: 0 !important;
+}
+
+.notification-box{
+  font-size: 12px;
+  background-color: #f9eaea !important;
+  margin-top: 8px;
+  outline: 3px solid #db4545;
+  border-radius: .3rem;
+  padding: 13px;
+  color: #000;
+}
+
+/* overriding bootstrap buttons */
+.btn{
+  padding-block: 3px !important;
+  font-size: 12px !important;
+}
+
+select, input, textarea{
+  font-size: 12px !important;
+}
+
+.c-row-item{
+  border: 1px solid gainsboro;
+  border-radius: 10px;
+  padding-bottom: 10px;
+}
+
+
+/* Hamza work */
+
+
+/* .form-label{
+  font-family: bold !important;
+  font-size: 20px !important;
+} */
+
+.custom-modal-width{
+    max-width: 90% !important; 
+    width: 70% !important;
+}
+
+#scr{
+height: 10px !important;
+width: 10px !important;
+
+} 
+
+
+:root {
+  --background: #d8e1e6;
+  --foreground: #171717;
+}
+
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.card-title{
+   
+  margin-bottom: 2.5rem !important
+} 
+
+.opt{
+  width: 18rem
+}
+
+.cont{
+  width: 25rem
+}
+
+.idee{
+  display: flex;
+}
+/* .gmal{
+  padding: 35px;
+} */
+
+p{
+  font:bold
+}
+/* .card-body{
+  height: 40px;
+} */
+
+#depr{
+  display: flex;
+}
+#deprt{
+  margin-top: 10px;
+}
+
+.cas{
+  display:flex;
+}
+
+#ico{
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.card-text{
+  margin-top: 20px;
+}
+
+#icons{
+  text-align: center;
+}

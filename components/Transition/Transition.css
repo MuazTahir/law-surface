@@ -1,0 +1,49 @@
+/* Custom Styles for the Transition Component */
+#transitionContainerhai {
+    background-color: #e9f4ff;
+    padding: 50px 15px;
+    border-radius: 10px;
+  }
+  
+  /* Responsive typography */
+  #h2 {
+    font-size: 2.5rem;
+    text-align: center;
+  }
+ 
+  
+  #p {
+    font-size: 1.1em;
+    text-align: center;
+  }
+
+  #B{
+    font-size: 1.2em;
+  }
+  
+  #button {
+    font-size: 1rem;
+  }
+  
+  @media (max-width: 576px) {
+    #h2 {
+      font-size: 1.5rem;
+    }
+  
+    #h3 {
+      font-size: 1.25rem;
+    }
+  
+    #p {
+      font-size: 0.875rem;
+    }
+  
+    #button {
+      width: 100%;
+    }
+  
+    .transitionContainer {
+      padding: 20px;
+    }
+  }
+  

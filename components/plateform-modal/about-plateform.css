@@ -1,0 +1,23 @@
+/* .model-he{
+    gap: 250px ;
+} */
+.close-btn{
+border: none;
+background-color: white;
+font-weight: bold;
+font-size: 15px;
+
+}
+.container{
+    line-height: normal;
+    
+}
+/* .close{
+    border: none;
+    background-color: white;
+    font-size: 20px;
+} */
+.txt-size{
+    font-size: 13px;
+    font-weight: bold
+}

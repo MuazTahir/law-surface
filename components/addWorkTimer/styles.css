@@ -1,0 +1,11 @@
+.file-case-box{
+    background-color: #edf2f9;
+}
+
+.file-case-box thead th{
+    color:black
+}
+
+.file-case-box td{
+    padding-block: 20px;
+}

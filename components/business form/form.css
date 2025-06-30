@@ -1,0 +1,27 @@
+.form_heading{
+    background: #fafafa;
+  }
+  .form_heading_desc{
+    font-size: 13px;
+  }
+  
+  .file_btn{
+    width: fit-content;
+  }
+
+  .phone_input_container {
+    width: 100px;
+  }
+  
+  .phone_input {
+    width: 100px;
+  }
+  
+  .phone_input_button {
+    width: auto;
+  }
+  
+  .phone_input_dropdown {
+    width: auto;
+  }
+  

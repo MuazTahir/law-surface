@@ -1,0 +1,26 @@
+
+p{
+    margin: 0;
+    padding: 0;
+    font-size:12px !important;
+    font-weight: 100;
+    font-family:sans-serif;
+    line-height: normal;
+}
+.title-style{
+    font-weight: 600;
+    font-size: 20px;
+  } 
+
+.tx1{
+    background-color: #f6f6f6 !important;
+    border-color:1px solid #ccc !important ;
+    color: black !important;
+    white-space: nowrap;
+    
+
+
+}
+.tsv{
+    font-size:small;
+}

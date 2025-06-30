@@ -1,0 +1,20 @@
+#show-clients-page #id{
+    width: 18px;
+    height: 19px;
+    margin-top: 4px;
+}
+
+#show-clients-page #sar{
+    height: 35px;
+    width: 589px;
+}
+
+#show-clients-page #cli{
+    margin-left: 350px;
+    margin-top: 6px;
+}
+
+#show-clients-page #main{
+    height: 70px;
+    border-radius: 8px;
+}

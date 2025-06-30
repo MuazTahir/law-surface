@@ -1,0 +1,159 @@
+.login_form_body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to bottom, transparent, rgb(var(--background-end-rgb)))
+      rgb(var(--background-start-rgb));
+  }
+  .login_section_wrapper {
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    padding: 0;
+    position: absolute;
+    top: 39%;
+    left: 50%;
+    width: 100%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+  }
+  .login_wrapper {
+    max-width: 1000px;
+    /* margin: 0 auto; */
+    padding-top: 24px;
+    padding-bottom: 24px;
+    background-color: white;
+    padding: 34px;
+    padding-bottom: 44px;
+    border-radius: 0.9em;
+    margin: auto;
+    /* box-shadow: 0 0 20px #a5a5a53b; */
+  }
+  .brand_wrapper {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .login_portal_page {
+    display: flex;
+    align-items: center;
+    gap: 10%;
+    margin-top: 22px;
+    flex-direction: row;
+    scrollbar-width: thin;
+    justify-content: space-between;
+  }
+  .login_bg_24 {
+    display: block;
+    width: 100% !important;
+  }
+  .input_group_text {
+    background: none;
+    border: none;
+  }
+  .social_icon {
+    color: gray;
+    transition: color 0.3s;
+  }
+  
+  .social_icon:hover {
+    color: blue;
+  }
+  .form-group {
+    position: relative;
+  }
+  
+  .icon {
+    position: absolute;
+    left: 10px; /* Default for LTR */
+    top: 50%;
+    transform: translateY(-50%);
+    color: #495057; /* Adjust the color as needed */
+  }
+  
+  [dir='rtl'] .icon {
+    left: auto;
+    right: 10px;
+  }
+  
+  .form_control {
+    padding-left: 35px;
+    border: 1px solid #ced4da;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 100%;
+  }
+  
+  [dir='rtl'] .form_control {
+    padding-right: 35px;
+  }
+  .footerText {
+    color: #003c9f !important;
+    font-size: 11px;
+  }
+  .footerText1 {
+    color: #525252 !important;
+    font-size: 13px;
+  }
+  .imageContainer {
+    display: block;
+  }
+  .social_iconsContainer {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  .form_group {
+    position: relative;
+    margin-left: 10px;
+  }
+  @media (max-width: 576px) {
+    .imageContainer {
+      display: none;
+    }
+    .login_wrapper {
+      padding: 20px;
+      margin: 30px;
+    }
+    .brand_wrapper {
+      flex-direction: column;
+      gap: 30px;
+    }
+    .welcome_text {
+      text-align: center;
+    }
+    .signInText {
+      text-align: center;
+    }
+    .form_group {
+      margin-top: 30px;
+    }
+    .footerText {
+      padding: 30px;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .login_portal_page {
+      flex-direction: column;
+    }
+  }
+  @media (max-width: 1024px) {
+    .login_wrapper {
+      margin: 60px;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .login_wrapper {
+      margin: 30px;
+    }
+    .login_portal_page {
+      gap: 5%;
+    }
+  }
+  

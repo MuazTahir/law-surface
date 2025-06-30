@@ -1,0 +1,34 @@
+p{
+  margin: 0;
+  padding: 0;
+  font-size:12px !important;
+  font-weight: 100;
+  font-family:sans-serif;
+  line-height: normal;
+ 
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  .title-style{
+    font-weight: 600;
+  } 
+/* .btn-container #add-btn{
+    background-color: rgb(16, 145, 16);
+    border-radius: 5px;
+    color: white;
+    border: 0;
+    font-size: 12px;
+    padding: 1px 15px;
+}
+.btn-container #all-settings-btn{
+    border-radius: 5px;
+    color: rgb(4, 97, 4);
+    border: 0;
+    font-size: 13px;
+    background-color:  #e9edf4;
+    padding: 5px 15px;
+  }
+   */

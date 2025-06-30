@@ -1,0 +1,62 @@
+#siteColorChoose #texts{
+    display: flex;
+    gap: 12%;
+}
+#siteColorChoose .Texts{
+    display: flex;
+    gap: 27px;
+}
+#siteColorChoose #Text{
+    display: flex;
+    /* gap: 12px; */
+}
+#siteColorChoose .TextsForms{
+    display: flex;
+    gap: 87px;
+}
+
+
+
+
+#siteColorChoose #c-circle1{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    border-radius: 50px;
+    margin-left: 10px;
+}
+#siteColorChoose #c-circle2{
+    width: 40px;
+    height: 40px;
+    background-color: blue;
+    border-radius: 50px;
+    margin-left: 10px;
+}
+#siteColorChoose #c-circle3{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    border-radius: 50px;
+    margin-left: 10px;
+}
+#siteColorChoose #c-circle4{
+    width: 40px;
+    height: 40px;
+    background-color: green;
+    border-radius: 50px;
+    margin-left: 10px;
+}
+#siteColorChoose #c-circle5{
+    width: 40px;
+    height: 40px;
+    background-color: brown;
+    border-radius: 50px;
+    margin-left: 10px;
+}
+#siteColorChoose #c-circle6{
+    width: 40px;
+    height: 40px;
+    background-color: purple;
+    border-radius: 50px;
+    margin-left: 10px;
+}

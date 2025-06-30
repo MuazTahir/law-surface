@@ -1,0 +1,51 @@
+nav .navbar-brand{
+    background-image: url(./logo.png);
+    background-size: 100%;
+    width: 161px;
+    background-repeat: no-repeat;
+    min-height: 69px;
+    background-position: center;
+    margin-left: 16px;
+}
+
+#navbarSupportedContent{
+    justify-content: flex-end;
+}
+
+nav{
+    padding: 0 !important;
+}
+
+.drop-area .flex ul li:first-child{
+    font-weight: bold;
+}
+
+.drop-area .flex{
+    justify-content: space-around;
+}
+
+.drop-open:hover  .drop-area{
+    display: block !important;
+}
+nav .nav-item{
+    /* background: red; */
+    line-height: 57px;
+}
+
+
+
+nav .drop-area li{
+    line-height: 40px;
+}
+
+nav .drop-area{
+    top: 70px;
+    position: absolute;
+    width: 100%;
+    height: 300px;
+    background: white;
+    left: 0;
+    z-index: 100;
+    border-top: 1px solid gainsboro;
+    color:black;
+}

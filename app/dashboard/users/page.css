@@ -1,0 +1,29 @@
+
+    body {
+      background-color: #f8f9fc;
+      font-family: Arial, sans-serif;
+    }
+
+    .form-control {
+      max-width: 140px;
+    }
+
+    .btn-success {
+      background-color: #28a745;
+    }
+    .containeer{
+       display: flex;
+       justify-content: center;
+       /* align-items: center; */
+       height: 73px;
+       width: 90%;
+       margin: 0 auto;
+       border-radius: 7px;
+
+
+
+    }
+    .custom-space {
+      margin-top: 30px; /* Adjust value as needed */
+    }
+    

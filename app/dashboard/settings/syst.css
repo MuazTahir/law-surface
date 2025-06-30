@@ -1,0 +1,37 @@
+.mainBox {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.sysettings {
+  font-size: 0.8em;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.sysettings div {
+  width: 320px;
+  height: 250px;
+}
+
+.sysettings div a {
+  text-decoration: none;
+  margin-left: 5%;
+  font-weight:bold;
+}
+
+.sysettings .Amajor {
+  margin-left: 75%;
+}
+
+.sysettings .Aminor {
+  margin-left: 50%;
+}
+
+.sysettings .Aminored {
+  margin-left: 40%;
+}
+
+.sysettings div i {
+  font-size: 2em;
+}

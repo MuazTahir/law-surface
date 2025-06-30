@@ -1,0 +1,42 @@
+.fisrtdiv{
+    box-sizing: border-box;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 100%;
+    font-size: 2.1em !important;
+    font-weight: 600 !important;
+    line-height: 1.2;
+    margin-bottom: 8px;
+}
+.outerdiv{
+    width: 100%;
+    background-color: #fafafa;
+}
+.pdiv{
+    margin-bottom: 35px;
+}
+.p{
+    font-size: 0.9em;
+    color: #05293f;
+    line-height: 18px;
+    
+}
+.cntbtn{
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 21.73913043px;
+    max-width: 100%;
+    background-color: #1968e9 !important;
+    color: #fff !important;
+    border: 0px !important;
+    border-radius: 5px !important;
+    padding: 6px 20px !important;
+    margin-bottom: 17px;
+    text-decoration: none;
+    
+}
+.cntimg{
+    width: 80%;
+    float: right;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,17 @@
+.notice-box{
+ 
+    background: #eaeaea;
+    position: absolute;
+    width: fit-content;
+    height: fit-content;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    left: 0;
+    right: 0;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 24px 1px #cacaca;
+
+}
+

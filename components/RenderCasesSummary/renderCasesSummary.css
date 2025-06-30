@@ -1,0 +1,9 @@
+.case-bubble{
+    width: 12px;
+    height: 12px;
+    border-radius: 12px;
+}
+
+#renderCasesSummary td:nth-child(2){
+    padding-left: 8px;
+}

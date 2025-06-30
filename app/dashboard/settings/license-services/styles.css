@@ -1,0 +1,39 @@
+p{
+    margin: 0;
+    padding: 0;
+    font-size:12px;
+    font-weight: 100;
+    font-family:sans-serif;
+    line-height: normal;
+    
+}
+#all-settings-btn{
+    color: white;
+    font-size: 12px;
+
+
+}
+#visit-website{
+    height:30px ;
+    width: 100px;
+    background-color: #289548;
+    border-color: #289548;
+    color:white;
+    border: 0;
+    border-radius:2px;
+    font-size: 12px;
+    text-align: center;
+    
+}
+.tx1{
+    font-weight: 300 !important;
+    font-size: 10px !important;
+    font-family: sans-serif !important;
+}
+.title-style{
+    font-weight: 600;
+    font-size: 20px;
+  } 
+
+
+

@@ -1,0 +1,8 @@
+.dashboardFooter{
+    line-height: 71px;
+    border-top: 1px solid gainsboro;
+}
+
+.dashboardFooter .text-left{
+    padding-top: 20px;
+}

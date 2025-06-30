@@ -1,0 +1,16 @@
+@media (max-width: 767px) {
+    #logoRow {
+      text-align: center;
+    }
+    #logoRow img {
+      max-width: 100%;
+      margin: auto;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    #logoRow img {
+      max-width: 50px;
+    }
+  }
+  

@@ -1,0 +1,12 @@
+#header{
+    margin: 21px;
+}
+.btn-tab{
+    font-size: 13px;
+    font-weight:700;
+    background: transparent;
+}
+.nav-item button:hover{
+    color: #1d6732 !important; 
+   
+  }

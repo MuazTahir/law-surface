@@ -1,0 +1,57 @@
+#notaryheader{
+    font-size: 12px;
+    padding-left:18px;
+    font-weight: bolder;
+}
+#heading{
+    padding-right:6px;
+}
+.widthclass{
+    width: fit-content;
+    height: auto;
+    border: 2px solid transparent;
+    border-radius: 10px;
+    background-color: white;
+}
+#bold{
+    /* font-size: small; */
+    font-weight: 15px;
+    margin-top: 27px;
+    margin-bottom: 20px;
+    border-top: 1px solid grey;
+    padding-top: 4px;
+}
+#boxwidth{
+    width: 250px;
+    margin-left: 53px;
+}
+
+
+.flex-column{
+    font-size: 12px;
+}
+#urlsize{
+    font-size: 15px;
+    margin-top: 4px;
+}
+
+.highlightpart{
+    font-size: 13px;
+    text-align: center;
+    background-color:#e0e5ed ;
+    display: block;
+    margin-top: 16px;
+    margin-bottom: 14px;
+    padding: 5px 15px;
+    border-radius: .3em;
+    width: 100%;
+}
+#imgsrc{
+    height: 12px;
+    border-radius: .2em;
+    margin-right: 6px;
+    
+    }
+.mt-0{
+    font-weight: 400;
+}

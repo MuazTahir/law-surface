@@ -1,0 +1,38 @@
+#icon{
+    font-size: 30px;
+   color: #0d6efd;
+}
+
+.__className_36bd41{
+    background: #e9f0f8;
+    margin: 40px;
+}
+#btn{
+    width: 136px;
+    height: 43px;
+    border-radius: 6px;
+    background: #f8ffff;
+}
+#icon2{
+    font-size: 24px;
+}
+#main{
+    border-radius: 15px;
+}
+
+#main2{
+    padding-right: 345px;
+    border: 1px solid #000;
+}
+.smal{
+    font-size: 0.78em;
+}
+/* #dateSelecter{
+    width: 900px;
+} */
+
+.formDate{
+    color: gray;
+    width: 100%;
+    border-color:gray ;
+}

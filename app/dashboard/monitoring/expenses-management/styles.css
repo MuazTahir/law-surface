@@ -1,0 +1,14 @@
+
+.catrgoryDivMain{
+    background-color: whitesmoke;
+}
+
+.catrgoryDivMain .catrgoryDivMain-2{
+  width: 98%;
+  margin: auto !important;
+}
+/* .catrgoryDivMain .myTable{
+    font-size: 14px;
+} */
+
+/* style={{ width: "98%", margin: "auto" }} */

@@ -1,0 +1,78 @@
+.logs-container {
+  max-width: 100%;
+  padding: 1rem;
+  background-color: #f8f9fa;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.logs-list {
+  max-height: 480px;
+  overflow-y: auto;
+  background-color: #edf2f9;
+}
+
+.logs-list::-webkit-scrollbar {
+  width: 8px;
+}
+
+.logs-list::-webkit-scrollbar-thumb {
+  background: gray;
+  border-radius: 3px;
+}
+
+.logs-list::-webkit-scrollbar-thumb:hover {
+  background: #1e7e34;
+}
+
+.log-item {
+  padding: 0.5rem;
+  background-color: white;
+  border: 1px solid #e0e0e0;
+  border-radius: 0.25rem;
+  font-size: 0.9rem;
+}
+
+.log-item:hover {
+  background-color: #e9ecef;
+}
+
+.selectInput {
+  font-size: 0.9rem !important;
+}
+
+.profile-img {
+  width: 30px !important;
+  border-radius: 4px;
+}
+
+.log-div {
+  border-right: 3px solid red !important;
+  font-size: 14px !important;
+  height: 60px;
+}
+
+.log-head {
+  height: auto;
+}
+
+.date-text {
+  font-size: 10px !important;
+}
+
+.refresh-btn {
+  padding: 2px 20px;
+  border-radius: 15px;
+  border: none;
+  font-size: 12px;
+}
+
+.timer-circle {
+  height: 60px !important;
+  width: 60px !important;
+  background-color: rgb(138, 197, 117) !important;
+  color: white !important;
+  border-radius: 50% !important;
+  border: 6px solid #477050 !important;
+  font-weight: 800;
+}

@@ -1,0 +1,22 @@
+#case-meetings-box .meeting-item{
+    border-radius: 20px;
+    padding-block: 16px;
+}
+
+#case-meetings-box .meeting-item > div{
+    padding-block: 16px;
+    background: #f3f3f3;
+    border-radius: 20px;
+
+}
+
+
+#case-meetings-box .meeting-noty{
+    width: fit-content;
+    padding: 5px 8px;
+    border: 1px solid gainsboro;
+    position: relative;
+    top: 10px;
+    background: gainsboro;
+    border-radius: 5px;
+  }

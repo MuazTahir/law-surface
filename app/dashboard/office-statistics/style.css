@@ -1,0 +1,25 @@
+.main-frame{
+width: 95vw;
+margin-inline: auto;
+}
+.dateRangeWrap{
+    
+    height: 100px;
+}
+.left-div{
+    background-color: #edf2f9 !important;
+}
+.left-div {
+    width: 100% !important;
+  }
+.rightdiv{
+    width: 100% !important;
+  }
+@media (min-width: 992px) {
+    .left-div {
+      width: 75% !important;
+    }
+    .rightdiv {
+      width: 25% !important;
+    }
+  }

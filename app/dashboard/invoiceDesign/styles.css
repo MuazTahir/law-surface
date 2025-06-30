@@ -1,0 +1,58 @@
+p
+{
+font-size:12px !important;
+font-weight: 100;
+font-family:sans-serif;
+line-height: normal;
+}
+.__className_36bd41 {
+    background: #dde9f7;
+}
+
+#btn {
+    color: #69aef3;
+}
+
+#btn3 {
+    color: white;
+    border-radius: 7px;
+}
+
+#main-blling {
+    padding: 22px;
+    border-radius: 17px;
+}
+
+#icon {
+    margin-left: 302px;
+}
+
+.hidden {
+    display: none;
+}
+
+#main2 {
+    width: 100%;
+    border-radius: 12px;
+    padding: 4px;
+}
+
+#text {
+    cursor: pointer !important;
+}
+
+#text:hover {
+    border: 2px solid;
+
+}
+
+.password {
+
+    text-align: center;
+
+    color: red;
+}
+.title-style{
+    font-weight: 600;
+    font-size: 20px;
+  } 

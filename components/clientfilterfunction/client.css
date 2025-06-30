@@ -1,0 +1,54 @@
+.table-container {
+  width: 100%;
+  overflow-x: auto;
+}
+
+
+
+@media (min-width: 820px) and (max-width: 1024px) {
+  .table-container {
+    overflow-y: scroll;
+    /* Add vertical scrolling */
+    /* Enable scrolling for medium screen sizes */
+  }
+}
+
+/* .table {
+    width: 100%;
+    border-collapse: collapse;
+  } */
+
+.advanceSearchBox {
+  border-radius: 10px;
+  width: 97%;
+  margin: auto;
+  background-color: white;
+}
+
+a.text-dark {
+  text-decoration: none;
+
+}
+
+a.text-dark:hover {
+  text-decoration: underline !important;
+  color: green;
+}
+
+.cleintTable {
+  border-collapse: separate;
+  border-spacing: 0px 10px;
+
+}
+
+.cleintTable tr {
+  line-height: 17px !important;
+
+  background-color: white;
+  line-height: 50px;
+}
+
+.tableDiv {
+  overflow-x: auto;
+  max-width: 100%;
+}

@@ -1,0 +1,39 @@
+ 
+
+  .remanderTable{
+    border-collapse: separate;
+    border-spacing: 0px 10px;
+
+  }
+  .remanderTable tr{
+       background-color: white;
+       /* line-height: 50px; */
+  }
+  .tableDiv{
+    overflow-x: auto;
+    max-width: 100%;
+  }
+
+  @media (max-width: 780px) {
+    .remanderTable {
+      min-width: 700px; /* Ensures the table has a scrollable width */
+    }
+  }
+  
+  .myhead{
+    background-color: red;
+  }
+  .mybtninreminder{
+    line-height: 29px;
+    background-color: rgb(40, 26, 226);
+    padding-inline: 24px;
+    margin: 0;
+    border-radius: 5px;
+    padding-block: -2px;
+    color: white;
+}
+  #endbtn{
+    background-color: rgb(223, 29, 29);
+  }
+
+  
